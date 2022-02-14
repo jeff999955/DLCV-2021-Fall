@@ -14,3 +14,10 @@
 ## Homework 3
 * Image Classification with Vition Transformer
 * Image Cpationing with Transformer
+
+## Homework 4
+* Prototypical Learning
+* Self-Supervised Pre-training with BYOL
+
+## Final Project
+* Skull Fracture Detection (private dataset provided by DEEP01)
